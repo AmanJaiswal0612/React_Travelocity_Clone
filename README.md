@@ -17,6 +17,6 @@ Executing the commands mentioned below one by one in your command line will help
 
 ```
 
-https://github.com/AmanJaiswal0612/React_Travelocity_Clone.git
+https://github.com/Pwnkdm/React_Travelocity_Clone.git
 cd ./project
 npm start
