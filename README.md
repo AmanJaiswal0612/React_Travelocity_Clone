@@ -30,13 +30,25 @@ and you will be redirected to payment page</p>
 <p>10. Thier are many more features in our website for knowing more about our website you can check our deployed website link(https://celadon-dodol-b03f1e.netlify.app)</p>
 <br/>
 <br/>
+
 <h2>Tech Stack 💻<h2>
   <li>React</li> <li>Redux</li> <li>Material UI</li><li>Local Storage</li>
 <br/>
   <br/>
 
+  <h2>Snap Shots📷</h2>
+  <li>Home Route</li>
+  <img src="https://user-images.githubusercontent.com/98823458/171941075-8a2a0fd2-03cc-4073-94a8-a40013220f97.png"/>
+  
+  <li>Hotels Route</li>
+  
+<img src="https://user-images.githubusercontent.com/98823458/171940123-704304e9-9b81-4569-8c4f-04e5960ccc27.png"/>
 
+  <li>Hotel details Route</li>
+  <img src="https://user-images.githubusercontent.com/98823458/171941485-6bcb066a-8ef1-48c0-9aaa-b8c24f1735f5.png"/>
 
+  
+  <li>Payment Route</li>
 
-
-
+  <img src="https://user-images.githubusercontent.com/98823458/171941782-3ca9f0dc-0c75-420d-b82d-7f816943c424.png"/><br/>
+ <h1  >Thank You</h1>
